@@ -1,0 +1,13 @@
+names:
+- bad
+- good
+nc: 2
+roboflow:
+  license: Public Domain
+  project: chilidetector
+  url: https://universe.roboflow.com/harithramoenes/chilidetector/dataset/4
+  version: 4
+  workspace: harithramoenes
+test: /content/datasets/ChiliDetector-4/test
+train: /content/datasets/ChiliDetector-4/train
+val: /content/datasets/ChiliDetector-4/valid
